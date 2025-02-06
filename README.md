@@ -35,6 +35,8 @@ response = client.models.generate_content(
 print(response.text)
 ```
 
+Check out playground1.ipynb for additional examples on using images and voice as inputs.
+
 ## Notes
 - **Replace `your_api_key_here` with your actual API key** to authenticate the request.
 - If you encounter any issues, ensure that your API key is valid and has the necessary permissions.
